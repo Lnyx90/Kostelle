@@ -7,7 +7,7 @@ Universitas Multimedia Nusantara
 
 ## Overview
 
-Kostelle adalah konsep aplikasi Android yang menggabungkan marketplace kos dengan fitur manajemen sewa. Aplikasi ini membantu calon penyewa menemukan kos berdasarkan budget, lokasi, dan fasilitas yang diinginkan, sekaligus menampilkan rincian biaya sewa seperti sewa kamar, listrik, air, dan laundry dalam satu tempat.
+Kostelle merupakan konsep aplikasi Android yang menggabungkan marketplace kos dengan fitur manajemen sewa. Aplikasi ini membantu calon penyewa menemukan kos berdasarkan budget, lokasi, dan fasilitas yang diinginkan, sekaligus menampilkan rincian biaya sewa seperti sewa kamar, listrik, air, dan laundry dalam satu tempat.
 
 Aplikasi dibangun dengan Kotlin dan Jetpack Compose, menggunakan Material 3 untuk antarmuka dan arsitektur MVVM untuk mengelola state UI dan logika layar. Implementasi saat ini menggunakan dummy data sebagai sumber data sementara.
 
