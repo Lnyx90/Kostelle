@@ -139,7 +139,7 @@ fun DetailScreen(
                 }
             }
 
-            // Header Info
+            // Info Header
             Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
                 Text(text = currentKos.name, style = MaterialTheme.typography.titleLarge, fontSize = 22.sp, fontWeight = FontWeight.Bold)
                 Text(text = currentKos.address, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)

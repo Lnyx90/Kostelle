@@ -99,7 +99,7 @@ fun ApplicationScreen(
                 StepItem(step = "3", title = "Pembayaran", active = false)
             }
 
-            // Selected Kos Card Summary
+            // Selected Kos Summary
             Card(
                 modifier = Modifier.fillMaxWidth(),
                 shape = RoundedCornerShape(16.dp),

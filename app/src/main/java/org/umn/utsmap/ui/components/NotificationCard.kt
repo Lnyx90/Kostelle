@@ -18,6 +18,7 @@ import org.umn.utsmap.data.model.NotificationItem
 import org.umn.utsmap.ui.theme.EarthyBrown
 import org.umn.utsmap.ui.theme.OutlineBorder
 
+
 @Composable
 fun NotificationCard(
     item: NotificationItem,

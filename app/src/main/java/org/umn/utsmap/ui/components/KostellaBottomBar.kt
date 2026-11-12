@@ -14,6 +14,7 @@ import androidx.compose.runtime.Composable
 import org.umn.utsmap.ui.theme.EarthyBrown
 import org.umn.utsmap.ui.theme.TextSecondary
 
+
 @Composable
 fun KostellaBottomBar(selectedTab: Int, onTabSelected: (Int) -> Unit) {
     NavigationBar(
